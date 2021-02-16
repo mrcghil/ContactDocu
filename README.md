@@ -1,2 +1,0 @@
-# ContactDocu
-Documentation App tests.
