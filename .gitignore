@@ -20,7 +20,6 @@ parts/
 sdist/
 var/
 wheels/
-venv/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
@@ -129,5 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# pyCharm Settings
 .idea
 
+# previous
+usb
+docs
+*.pyc
